@@ -1,0 +1,117 @@
+﻿生成启动时间为 2019/5/1 19:24:36。
+     1>项目“C:\Users\HP\Desktop\PRO51\CalculatorProtoType\CalculatorProtoType\CalculatorProtoType.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\CalculatorProtoType.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CalculatorProtoType.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CalculatorProtoType.cpp CalculatorProtoTypeDlg.cpp
+         CalculatorProtoTypeDlg.cpp
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(67): error C2065: “IDC_BUTTON9”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(69): error C2065: “IDC_BUTTON11”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(181): error C2019: 应输入预处理器指令，却找到“1”
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(193): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(193): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(193): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(194): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(195): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(197): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(198): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(208): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(208): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(208): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(209): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(210): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(212): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(213): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(224): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(224): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(224): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(225): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(226): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(228): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(229): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(239): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(239): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(239): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(240): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(241): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(243): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(244): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(253): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(253): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(253): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(254): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(255): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(257): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(258): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(269): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(269): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(269): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(270): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(271): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(273): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(274): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(283): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(283): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(283): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(284): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(285): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(287): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(288): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(297): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(297): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(297): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(298): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(299): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(301): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(302): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(311): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(311): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(311): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(312): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(313): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(315): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(316): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(325): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(325): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(325): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(326): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(327): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(329): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(330): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(338): error C3861: “Updatedata”: 找不到标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(339): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(340): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(341): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(349): error C3861: “Updatedata”: 找不到标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(350): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(351): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(352): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(360): error C3861: “Updatedata”: 找不到标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(361): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(362): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(363): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(371): error C3861: “Updatedata”: 找不到标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(372): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(373): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(374): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(383): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(383): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(383): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(384): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(386): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(387): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(388): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(397): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(397): warning C4805: “==”: 在操作中将类型“'unknown-type'”与类型“bool”混合不安全
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(397): error C2065: “Restarted”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(398): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(400): error C2065: “m_strResult”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(401): error C2065: “OperatorPressed”: 未声明的标识符
+     1>c:\users\hp\desktop\pro51\calculatorprototype\calculatorprototype\calculatorprototypedlg.cpp(402): error C2065: “Restarted”: 未声明的标识符
+         CalculatorProtoType.cpp
+         正在生成代码...
+     1>已完成生成项目“C:\Users\HP\Desktop\PRO51\CalculatorProtoType\CalculatorProtoType\CalculatorProtoType.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.24
