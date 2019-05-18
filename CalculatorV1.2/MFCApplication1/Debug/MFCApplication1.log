@@ -1,0 +1,7 @@
+﻿  Calculation.cpp
+D:\MFCApplication1\Calculation.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+D:\MFCApplication1\Calculation.cpp(285): warning C4018: “>=”: 有符号/无符号不匹配
+  MFCApplication1.cpp
+  MFCApplication1Dlg.cpp
+  正在生成代码...
+  MFCApplication1.vcxproj -> D:\MFCApplication1\Debug\MFCApplication1.exe
